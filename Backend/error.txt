@@ -1,0 +1,10 @@
+TypeError: pdfParse is not a function
+    at generateInterViewReportController (C:\Users\VIVOBOOK\OneDrive\Desktop\interview-ai-yt-main\Backend\src\controllers\interview.controller.js:18:41)
+    at Layer.handleRequest (C:\Users\VIVOBOOK\OneDrive\Desktop\interview-ai-yt-main\Backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\VIVOBOOK\OneDrive\Desktop\interview-ai-yt-main\Backend\node_modules\router\lib\route.js:157:13)
+    at done (C:\Users\VIVOBOOK\OneDrive\Desktop\interview-ai-yt-main\Backend\node_modules\multer\lib\make-middleware.js:50:7)
+    at indicateDone (C:\Users\VIVOBOOK\OneDrive\Desktop\interview-ai-yt-main\Backend\node_modules\multer\lib\make-middleware.js:54:68)
+    at Multipart.<anonymous> (C:\Users\VIVOBOOK\OneDrive\Desktop\interview-ai-yt-main\Backend\node_modules\multer\lib\make-middleware.js:215:7)
+    at Multipart.emit (node:events:518:28)
+    at emitCloseNT (node:internal/streams/destroy:148:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
